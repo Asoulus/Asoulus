@@ -6,7 +6,7 @@ My dream job is making games both big and small 🎮
 - 🌱 I’m currently learning learning .NET 
 
 # Connect with me:
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/piotr-r-909271244/)  
+[<img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/piotr-r-909271244/)  
 
 
 # Languages and Tools:
