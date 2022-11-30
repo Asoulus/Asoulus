@@ -1,12 +1,13 @@
-<p align="center">
-  # Hello there, I'm Piotr
-</p>
+# <p align="center">Hello there, I'm Piotr </p>
 
 ### I am a graduate of the Częstochowa University of Technology. I managed to finish my education with masters degree. 😃
 <br>
-My dream job is to take part in making games both big and small. 🎮
+My dream job is to take part in making games both big and small. 🎮 
+<br>
 I enjoy spending my time playing video games or waching series. 🎥
+<br>
 My favourite sports are snowboarding and swimming. 🏂
+<br>
 <br>
 - 🌱 I’m currently learning .NET 
 
@@ -20,6 +21,6 @@ My favourite sports are snowboarding and swimming. 🏂
 [<img src='https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg' alt='bledner' height='40' width='40'>](https://www.blender.org/) 
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=Asoulus&color=09eded)
+  ![](https://komarev.com/ghpvc/?username=Asoulus&label=PROFILE+VIEWS)
 </p>
 
