@@ -23,7 +23,7 @@ My favourite sports are snowboarding and swimming. 🏂
 
 <div align="center">
   
-  <a href="">![](https://komarev.com/ghpvc/?username=Asoulus&label=PROFILE+VIEWS))</a>
+  <a href="">![](https://komarev.com/ghpvc/?username=Asoulus&label=PROFILE+VIEWS)</a>
   
 </div>
 
