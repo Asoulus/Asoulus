@@ -1,12 +1,13 @@
-# Hello there, I'm Piotr
+<p align="center">
+  # Hello there, I'm Piotr
+</p>
 
-## I am a graduate of the Częstochowa University of Technology. I managed to finish my education with masters degree. 😃
-<br>
+### I am a graduate of the Częstochowa University of Technology. I managed to finish my education with masters degree. 😃
 <br>
 My dream job is to take part in making games both big and small. 🎮
 I enjoy spending my time playing video games or waching series. 🎥
 My favourite sports are snowboarding and swimming. 🏂
-
+<br>
 - 🌱 I’m currently learning .NET 
 
 # Connect with me:
@@ -18,4 +19,7 @@ My favourite sports are snowboarding and swimming. 🏂
 [<img src='https://flaxengine.com/wp-content/uploads/2016/12/Web_Logo_Icon_600.png' alt='flax' height='40'>](https://flaxengine.com/) 
 [<img src='https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg' alt='bledner' height='40' width='40'>](https://www.blender.org/) 
 
-![](https://komarev.com/ghpvc/?username=Asoulus&color=09eded)
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=Asoulus&color=09eded)
+</p>
+
