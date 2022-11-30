@@ -11,6 +11,6 @@ My dream job is making games both big and small 🎮
 
 # Languages and Tools:
 [<img src='https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png' alt='c#' height='40'>](https://learn.microsoft.com/pl-pl/dotnet/csharp/) 
-[<img src='https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg' alt='unity' height='40'>](https://unity.com/) 
+[<img src='https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg' alt='unity' height='40'>](https://unity.com/) 
 [<img src='https://flaxengine.com/wp-content/uploads/2016/12/Web_Logo_Icon_600.png' alt='flax' height='40'>](https://flaxengine.com/) 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png' alt='bledner' height='40' width='40'>](https://www.blender.org/) 
