@@ -1,4 +1,4 @@
-# Hello there , I'm Piotr
+# Hello there, I'm Piotr
 
 I am a graduate of the Częstochowa University of Technology. I managed to finish my education with masters degree. 😃
 
@@ -7,10 +7,9 @@ I am a graduate of the Częstochowa University of Technology. I managed to finis
 # Connect with me:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/piotr-r-909271244/)  
 
----
 
 # Languages and Tools:
 [<img src='https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png' alt='c#' height='40'>](https://learn.microsoft.com/pl-pl/dotnet/csharp/) 
-[<img src='https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png' alt='unity' height='40'>](https://unity.com/) 
+[<img src='https://banner2.cleanpng.com/20190516/jxv/kisspng-computer-icons-portable-network-graphics-scalable-unity-icon-of-glyph-style-available-in-svg-png-5cdd4e406bd6e8.7654505415580073604417.jpg' alt='unity' height='40'>](https://unity.com/) 
 [<img src='https://flaxengine.com/wp-content/uploads/2016/12/Web_Logo_Icon_600.png' alt='flax' height='40'>](https://flaxengine.com/) 
-[<img src='https://www.clipartmax.com/png/middle/347-3472687_blender-software-logo.png' alt='bledner' height='40' width='40'>](https://www.blender.org/) 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png' alt='bledner' height='40' width='40'>](https://www.blender.org/) 
