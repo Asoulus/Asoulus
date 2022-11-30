@@ -7,8 +7,10 @@ I am a graduate of the Częstochowa University of Technology. I managed to finis
 # Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/piotr-r-909271244/)  
 
-Skills: C# / Unity / Flax / Blender
+---
+
+# Languages and Tools:
 [<img src='https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png' alt='c#' height='40'>](https://learn.microsoft.com/pl-pl/dotnet/csharp/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='unity' height='40'>](https://unity.com/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg' alt='unity' height='40'>](https://unity.com/) 
 [<img src='https://flaxengine.com/wp-content/uploads/2016/12/Web_Logo_Icon_600.png' alt='flax' height='40'>](https://flaxengine.com/) 
-[<img src='https://www.clipartmax.com/png/middle/347-3472687_blender-software-logo.png' alt='bledner' height='40'>](https://www.blender.org/) 
+[<img src='https://www.clipartmax.com/png/middle/347-3472687_blender-software-logo.png' alt='bledner' height='40' width='40'>](https://www.blender.org/) 
