@@ -18,4 +18,4 @@ My favourite sports are snowboarding and swimming. 🏂
 [<img src='https://flaxengine.com/wp-content/uploads/2016/12/Web_Logo_Icon_600.png' alt='flax' height='40'>](https://flaxengine.com/) 
 [<img src='https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg' alt='bledner' height='40' width='40'>](https://www.blender.org/) 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=09eded)
+![](https://komarev.com/ghpvc/?username=Asoulus&color=09eded)
